@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(52, 48, 47);
+}
+
+nav a {
+    font-size: 30px;
+    text-decoration: none;
+    font-family: gill sans;
+    color: rgb(152, 203, 247);
+    display: block;
+    padding: 10px 25px;
+    background-color: rgb(50, 50, 176);
+    width: 130px;
+    text-align: center;
+    margin-left: 5px;
+    margin-top: 5px
+}
+
+nav a:hover {
+    color: whitesmoke;
+    transition: all 0.3s ease 0s;
+}
+
+.sticky {
+    position: sticky;
+    top: 0;
+}
