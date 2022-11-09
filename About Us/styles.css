@@ -1,14 +1,21 @@
 body{
     background-color: #121212;
     color: white;
+    display: flex;
+    width: 100vw;
+    justify-content: center;
+}
+
+.inner{
+    max-width: 100%;
 }
 
 .card{
     border-radius: 25px;
     margin: 10px;
-
+    width: 100vw;
     background-color: rgba(255, 255, 255, 0.05);
-    max-width: 600px;
+
 }
 
 .info{
