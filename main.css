@@ -10,4 +10,16 @@
     font-family: mainExtraBold;
     src: url(fonts/nexaExtraBold.ttf);
 }
-
+.bold{
+    font-family: mainBold;
+}
+.extraBold{
+    font-family: mainExtraBold;
+}
+.regular{
+    font-family: main;
+}
+body{
+    background-color: #121212;
+    color: white;
+}
