@@ -1,0 +1,13 @@
+@font-face {
+    font-family: main;
+    src: url(fonts/nexa.ttf);
+}
+@font-face {
+    font-family: mainBold;
+    src: url(fonts/nexaBold.ttf);
+}
+@font-face {
+    font-family: mainExtraBold;
+    src: url(fonts/nexaExtraBold.ttf);
+}
+
