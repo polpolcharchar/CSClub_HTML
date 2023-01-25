@@ -30,3 +30,9 @@ a:visited{
     text-decoration: none;
     color: white;
 }
+
+.right{
+    position: fixed;
+    right: 20px;
+    top: 0px;
+}
