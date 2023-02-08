@@ -103,8 +103,3 @@ nav a:hover {
     padding: 15px 20px;
     outline: solid 6px rgb(152, 203, 247);
 }
-.sticky {
-    position: sticky;
-    top: 0;
-}
-
